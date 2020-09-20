@@ -29,8 +29,10 @@ header .container .content img{}
     text-align: center;
 }
 .about .container .content img{
-    /* width: 900px; */
+    width: 100%;
     margin: 0 auto;
+    height: 460px;
+    object-fit: cover;
 }
 .color_1{
     color: #6A9FF6;
